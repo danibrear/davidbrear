@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there, I'm David Brear!
 
-<!--
-**DavidBrear/davidbrear** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💻 I'm currently employed at [https://capitaloneshopping.com](https://capitaloneshopping.com)
+- 🔨 I’m currently building [https://fanscoutapp.com](https://fanscoutapp.com) and [https://runclub.beer](https://runclub.beer)
+- 🌱 I’m currently learning [AWS Amplify](https://aws.amazon.com/amplify/)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Language and technologies I like to work with:
+- Javascript (via TypeScript): React, React Native, [Expo](https://expo.dev/)
+- AWS: Amplify (DynamoDB, Lambda, AppSync, OpenSearch, Cloudformation, S3)
+- UI Frameworks: [Material-UI](https://mui.com/), [NativeBase v3](https://nativebase.io/)
+- Python3: numpy, pandas
+- Other:
+  - Caching / Searching: [Algolia](https://www.algolia.com/)
+  - Chat / Feed Tech: [Stream](https://getstream.io/)
